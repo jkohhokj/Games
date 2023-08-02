@@ -2,6 +2,20 @@
 
 Quick overview of each major program.
 
+## Gaze Tracking
+
+Partial implementation of a baby eye tracking software that measures reaction time in C. This was a test project for a company that never got approved but I wanted to start early and ended up making something scuffed.
+
+## Machine Learning
+
+Practice CNN and RNN of handwriting recognition from Tensorflow's tutorial and a custom speech recognition sample I implemented. Neither are complete.
+
+## PCPP301
+
+Incomplete collection of Python learning resourcse used when I first started learning Python.
+
+## Archive
+
 ### Physics Engine: 
 
 > A 2D physics engine that applies conservation of momentum for object collision. Movement can be absolute or by acceleration for linear and rotational motion.
